@@ -1,0 +1,15 @@
+0001 decor 2001 hj~hjk~&&& 7.00 4.35 2315.55 oui
+0002 meuble 1932 ghjk~ghjkf~j,f 6.30 1.85 2654.12 non
+0003 couvert 1999 fghj~ghjk 5.00 389.00 322.01 non
+0004 tableau 2005 fghj~ghjk~ghjfkf~ff 5.00 3.00 1758.00 non
+0005 decor 1980 dfg~rty~edfg 1.78 1.20 1589.70 non
+0006 meuble 2020 ghjk~ujkf~yhdvd~gd‚‚ 8.00 6.00 9688.26 non
+0007 decor 2006 ghjf~ghjfkyh~ff 0.75 0.50 2698.12 non
+0008 meuble 1785 hfjk~antique 1.40 0.68 10999.99 non
+0009 instrument 2000 fghjk~fghjkl 1.56 0.23 1453.60 non
+1010 decor 1987 dfghj~fghjklfvbn,~ 5.00 1.65 789.20 non
+1234 tableau 2000 fghjk~cvbn, 2.30 1.60 1012.35 non
+1011 tableau 2000 fghn,~xcvbn 2.10 1.10 1012.35 non
+1000 decor 22 fghj~dfghjk~xcvb 2.00 1.00 200.00 non
+1d4d meuble 1000 ghjkl~hjklmvd^�~;: 1.30 1.20 4000.00 non
+0000 meuble 2000 rtfgyuh~tyguhij 0.78 0.11 699.99 non

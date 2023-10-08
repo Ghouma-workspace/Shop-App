@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1644170437 source:d:\mini_projet\main.c
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+	"magasin.h"
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1641285761 d:\mini_projet\magasin.h
+
+1641285761 source:d:\mini_projet\magasin.c
+	<stdio.h>
+	"magasin.h"
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<tchar.h>
+
+1639242216 source:d:\mini_projet\untitled2.c
+	<stdio.h>
+	"magasin.h"
+	<stdlib.h>
+	<string.h>
+
+1641289361 source:d:\1atel projects\projet c\mini_projet\magasin.c
+	<stdio.h>
+	"magasin.h"
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<tchar.h>
+
+1641289361 d:\1atel projects\projet c\mini_projet\magasin.h
+
+1644174037 source:d:\1atel projects\projet c\mini_projet\main.c
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+	"magasin.h"
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

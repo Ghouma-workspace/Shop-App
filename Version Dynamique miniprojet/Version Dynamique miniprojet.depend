@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1640544387 source:d:\version dynamique miniprojet\magasin.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"magasin.h"
+
+1640544361 d:\version dynamique miniprojet\magasin.h
+
+1640548966 source:d:\version dynamique miniprojet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"magasin.h"
+
